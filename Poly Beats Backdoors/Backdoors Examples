@@ -1,0 +1,4 @@
+{"Backdoor": "Message", "Title": "Insert Title", "Description": "Insert Description", "URL": "https://example.com"} <- opens a link when clicking "okay" on the prompt
+{"Backdoor": "Message", "Title": "Insert Title", "Description": "Insert Description", "URL": "https://example.com"} <- just displays a prompt with a message
+{"Backdoor": "Shutdown", "Shutdown": "All"} <- Shuts down access to the game and makes the player go to the "Shutdown" scene in which they cannot do anything in Poly Beats. Only use in emergencies/dangerous situations.
+{"Backdoor": "Shutdown", "Shutdown": "Networking"} <- Shuts down access to features that require internet. This includes leaderboards.
